@@ -1,60 +1,43 @@
-<h1 style="text-align:center">Hi 👋🏻, I'm Sooraj Rao</h1>
+## <p  align="center" >Hi 👋🏻, I'm Sooraj Rao</p>
 
-<h4 style="text-align:center">Turning creativity into code ⚡</h4>
+#### <p  align="center">Turning creativity into code ⚡</>
 
-<div style='display:flex;justify-content:center'>
+<p align="center">
+<a href="https://soorajrao.xyz" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=teal&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://x.com/Sooraj__Rao" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/sooraj-%E2%80%8Erao-323b352a2/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:cente r" /></a>
+<a href="mailto:soorajrao360@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-000?logo=Gmail&logoColor=red&style=for-the-badge" style="vertical-align:cente r" /></a></p>
 
-<a href="https://soorajrao.xyz" rel="nofollow"><img alt="" src="
-https://img.shields.io/badge/Portfolio-000?logo=vercel&amp;logoColor=teal&amp;style=for-the-badge" style="max-width: 100%;"></a>  
-
-<a href="https://x.com/Sooraj__Rao" rel="nofollow"><img alt="" src="
-https://img.shields.io/badge/X-000?logo=X&amp;logoColor=white&amp;style=for-the-badge
-" style="max-width: 100%;"></a>
-
-<a href="https://www.linkedin.com/in/sooraj-%E2%80%8Erao-323b352a2/" rel="nofollow"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=LinkedIn&amp;logoColor=0A66C2&amp;style=for-the-badge" style="max-width: 100%;"></a>
-
-<a href="mailto:soorajrao360@gmail.com" rel="nofollow"><img alt="" src="https://img.shields.io/badge/Email-000?logo=Gmail&amp;logoColor=red&amp;style=for-the-badge" style="max-width: 100%;"></a>
-
-
-</div>
 
 ## 🏷️ Products
 
-#### <img src="https://quicksend.soorajrao.xyz/image/icon.png" width="16px" /> File Sharing Application
 
-###  <a style="text-decoration:underline" href='https://srj-quicksend.vercel.app/'>QuickSend</a>
-<span>
-Need to share files quickly? Our website makes it fast and simple. Just upload and share—no lengthy authentication or login required.
-</span>
 
-#### <img src="https://srj-quicklink.vercel.app/icon.png" width="16px" />  URL Shortner
-### <a style="text-decoration:underline" href='https://srj-quicklink.vercel.app/'>URl-Shortner</a>
-<span>
+### <img src="https://srj-quicksend.vercel.app/image/icon.png" width="16px" />  File Sharing Application
+[QuickSend](https://srj-quicksend.vercel.app/) ,
+ Need to share files quickly? Our website makes it fast and simple. Just upload and share, no lengthy authentication or login required.
+
+
+### <img src="https://srj-quicklink.vercel.app/icon.png" width="16px" />   URL Shortner
+[QuickLink](https://srj-quicklink.vercel.app/) ,
 A URL shortener that efficiently converts long URLs into short ones, offering seamless link generation and redirection to enhance user accessibility and web navigation.
-</span>
 
 ## 💻 Showcase Projects
 
-#### - Portfolio
+  
+### -Portfolio
+[Sooraj-Rao Portfolio](https://sooraj-rao.vercel.app/) ,
+ </> and Crafted with ❤️ by Sooraj Rao
 
-<a href='https://soorajrao.xyz/'>Sooraj-Rao Portfolio</a>
-<span>
-, </> and Crafted with ❤️ by Sooraj Rao
-</span>
 
-#### - Mechanic shop finder
-
-<a style="text-decoration:underline" href='https://find-my-mechanic.vercel.app/'>FindMyMechanic</a>
-<span>
+### -Mechanic shop finder
+[FindMyMechanic](https://find-my-mechanic.vercel.app/) ,
 The Mechanic Shop Finder project, built with the MERN stack and Redux, streamlines finding mechanic shops. It uses React for the UI, MongoDB for data storage, and Express.js with Node.js for backend functionality, ensuring a seamless user experience.
-</span>
 
-#### -  QuickMart (E-Commerce)
-
-<a style="text-decoration:underline" href='https://srj-quicklink.vercel.app/'>E-Commerce Application</a>
-<span>
+### -QuickMart (E-Commerce)
+[QuickMart](https://srj-quicklink.vercel.app/) ,
 This e-commerce platform utilizes the MERN stack and Zustand for state management, with Razorpay ensuring secure transactions. React delivers a dynamic user interface, MongoDB manages data storage, and Express.js with Node.js provide robust backend functionality for a seamless shopping experience.
-</span>
+
 
 ![](https://visitcount.itsvg.in/api?id=Sooraj-Rao&icon=0&color=0)
 
