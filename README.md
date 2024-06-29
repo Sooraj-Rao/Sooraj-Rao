@@ -41,20 +41,20 @@ This e-commerce platform utilizes the MERN stack and Zustand for state managemen
 
 ![](https://visitcount.itsvg.in/api?id=Sooraj-Rao&icon=0&color=0)
 
-## Tech Stack 💻
+## Tech Stack 
 
 #### Languages
-
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/-java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=Typescript)
 ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 
 #### JS Framework/Library
 
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=Redux)
+![Zustand](https://img.shields.io/badge/-Zustand-000?style=for-the-badge&logo=rustdesk)
 
 #### CSS Framework/Library/Pre-processors
 
@@ -67,13 +67,15 @@ This e-commerce platform utilizes the MERN stack and Zustand for state managemen
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
 ![socket.IO](https://img.shields.io/badge/-socket.io-000?style=for-the-badge&logo=socketdotio)
+![Multer](https://img.shields.io/badge/-Multer-000?style=for-the-badge&logo=libreofficebase)
 
-#### Database
+#### Database and ORMs
 
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![postgresql](https://img.shields.io/badge/-postgresql-000?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=Redis)
+![Mongoose](https://img.shields.io/badge/-Mongoose-000?style=for-the-badge&logo=Mongoose)
 
 #### Mobile
 
@@ -86,10 +88,12 @@ This e-commerce platform utilizes the MERN stack and Zustand for state managemen
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 
 
-#### Version Control
+#### Version Control And Tools
 
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
+![PostMan](https://img.shields.io/badge/-PostMan-000?style=for-the-badge&logo=PostMan)
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
 
 ## Current GitHub Stats 📊
 
