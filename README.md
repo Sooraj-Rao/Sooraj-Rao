@@ -4,7 +4,6 @@
 
 <p align="center">
 <a href="https://soorajrao.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=teal&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://x.com/SoorajRaoo" target="_blank"><img alt="" src="https://img.shields.io/badge/X-000?logo=X&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/sooraj-rao/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:cente r" /></a>
 <a href="mailto:soorajrao.in@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-000?logo=Gmail&logoColor=blue&style=for-the-badge" style="vertical-align:cente r" /></a></p>
 
