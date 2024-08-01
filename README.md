@@ -46,7 +46,6 @@ This e-commerce platform utilizes the MERN stack and Zustand for state managemen
 ![Java](https://img.shields.io/badge/-java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=Typescript)
-![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
 
 #### JS Framework/Library
 
@@ -75,15 +74,16 @@ This e-commerce platform utilizes the MERN stack and Zustand for state managemen
 ![postgresql](https://img.shields.io/badge/-postgresql-000?style=for-the-badge&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=Redis)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000?style=for-the-badge&logo=Mongoose)
+![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=Prisma)
 
 #### Mobile
 
-![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=Flutter)
-![React-Native](https://img.shields.io/badge/-ReactNative-000?style=for-the-badge&logo=react)
+![React-Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
 
 #### Web Hosting
 
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-000?style=for-the-badge&logo=Amazon)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 
 
