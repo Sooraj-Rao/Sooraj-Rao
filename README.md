@@ -7,42 +7,41 @@
 <a href="https://www.linkedin.com/in/sooraj-rao/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:cente r" /></a>
 <a href="mailto:soorajrao.in@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-000?logo=Gmail&logoColor=blue&style=for-the-badge" style="vertical-align:cente r" /></a></p>
 
+![](https://viewcount.soorajrao.in/api/Sooraj-Rao-Github?text=Views&colorStyle=1&scale=.6)
 
 ## 🏷️ Products
 
+### <img src="https://quicksend.soorajrao.in/image/icon.png" width="16px" /> File Sharing Application
 
+[QuickSend](https://quicksend.soorajrao.in/?ref=github) ,
+Need to share files quickly? Our website makes it fast and simple. Just upload and share, no lengthy authentication or login required.
 
-### <img src="https://quicksend.soorajrao.in/image/icon.png" width="16px" />  File Sharing Application
-[QuickSend](https://quicksend.soorajrao.in/) ,
- Need to share files quickly? Our website makes it fast and simple. Just upload and share, no lengthy authentication or login required.
+### <img src="https://quicklink.soorajrao.in/icon.png" width="16px" /> URL Shortner
 
-
-### <img src="https://quicklink.soorajrao.in/icon.png" width="16px" />   URL Shortner
-[QuickLink](https://quicklink.soorajrao.in/) ,
+[QuickLink](https://quicklink.soorajrao.in/?ref=github) ,
 A URL shortener that efficiently converts long URLs into short ones, offering seamless link generation and redirection to enhance user accessibility and web navigation.
 
 ## 💻 Showcase Projects
 
-  
 ### -Portfolio
-[Sooraj-Rao Portfolio](https://soorajrao.in/) ,
+
+[Sooraj-Rao Portfolio](https://soorajrao.in/?ref=github) ,
 A sleek, modern portfolio showcasing creativity, projects, and technical expertise.
 
-
 ### -Mechanic shop finder
-[FindMyMechanic](https://mech.soorajrao.in/) ,
+
+[FindMyMechanic](https://mech.soorajrao.in/?ref=github) ,
 The Mechanic Shop Finder project, built with the MERN stack and Redux, streamlines finding mechanic shops. It uses React for the UI, MongoDB for data storage, and Express.js with Node.js for backend functionality, ensuring a seamless user experience.
 
 ### -QuickMart (E-Commerce)
-[QuickMart](https://quickmart.soorajrao.in/) ,
+
+[QuickMart](https://quickmart.soorajrao.in/?ref=github) ,
 This e-commerce platform utilizes the MERN stack and Zustand for state management, with Razorpay ensuring secure transactions. React delivers a dynamic user interface, MongoDB manages data storage, and Express.js with Node.js provide robust backend functionality for a seamless shopping experience.
 
-
-![](https://visitcount.itsvg.in/api?id=Sooraj-Rao&icon=0&color=0)
-
-## Tech Stack 
+## Tech Stack
 
 #### Languages
+
 ![Java](https://img.shields.io/badge/-java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-000?style=for-the-badge&logo=Typescript)
@@ -85,7 +84,6 @@ This e-commerce platform utilizes the MERN stack and Zustand for state managemen
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-000?style=for-the-badge&logo=Amazon)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
-
 
 #### Version Control And Tools
 
