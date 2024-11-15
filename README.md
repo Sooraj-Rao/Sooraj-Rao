@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/sooraj-rao/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:cente r" /></a>
 <a href="mailto:soorajrao.in@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-000?logo=Gmail&logoColor=blue&style=for-the-badge" style="vertical-align:cente r" /></a></p>
 
-![](https://viewcount.soorajrao.in/api/Sooraj-Rao-Github?text=Views&colorStyle=1&scale=.6)
+![](https://viewcount.soorajrao.in/api/Sooraj-Rao-Github?text=Views&scale=.8&textColor=white&bgColor=black&iconColor=white&borderColor=white&viewsBgColor=black&viewsColor=white)
 
 ## 🏷️ Products
 
