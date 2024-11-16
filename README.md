@@ -3,11 +3,11 @@
 #### <p  align="center">Web and Apps Developer
 
 <p align="center">
-<a href="https://soorajrao.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=teal&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://soorajrao.in?ref=git_md" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=greenl&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/sooraj-rao/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:cente r" /></a>
 <a href="mailto:soorajrao.in@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-000?logo=Gmail&logoColor=blue&style=for-the-badge" style="vertical-align:cente r" /></a></p>
 
-![](https://viewcount.soorajrao.in/api/Sooraj-Rao-Github?text=Views&scale=.8&textColor=white&bgColor=black&iconColor=white&borderColor=white&viewsBgColor=black&viewsColor=white)
+![](https://viewcount.soorajrao.in/api/test?text=Sooraj-Rao-Github&bgColor=black&iconColor=green&viewsBgColor=black&viewsColor=white&gradientStart=black&gradientEnd=green&borderColor=black&width=240)
 
 ## 🏷️ Products
 
