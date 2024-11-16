@@ -3,13 +3,24 @@
 #### <p  align="center">Web and Apps Developer
 
 <p align="center">
-<a href="https://soorajrao.in?ref=git_md" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=greenl&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://soorajrao.in?ref=git_md" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=teal&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/sooraj-rao/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:cente r" /></a>
 <a href="mailto:soorajrao.in@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-000?logo=Gmail&logoColor=blue&style=for-the-badge" style="vertical-align:cente r" /></a></p>
 
-![](https://viewcount.soorajrao.in/api/test?text=Sooraj-Rao-Github&bgColor=black&iconColor=green&viewsBgColor=black&viewsColor=white&gradientStart=black&gradientEnd=green&borderColor=black&width=240)
+![](https://viewcount.soorajrao.in/api/Sooraj-Rao-Github?text=Views&bgColor=rgb%2813%2C17%2C23%29&iconColor=green&viewsBgColor=rgb%2813%2C17%2C23%29&viewsColor=white&gradientStart=rgb%2813%2C17%2C23%29&gradientEnd=green&borderColor=black)
 
-## 🏷️ Products
+## Productive Application
+
+### <img src="https://linkhub.soorajrao.in/favicon.ico" width="16px" /> Linkhub
+
+[Linkhub](https://linkhub.soorajrao.in/?ref=github) ,
+Linkhub is your ultimate solution for managing and sharing all your important links in one convenient place.
+
+### <img src="https://viewcount.soorajrao.in/favicon.ico" width="16px" /> Viewcount
+
+[ViewCount](https://viewcount.soorajrao.in/?ref=github) ,
+Capture Every View, Instantly and Seamlessly
+Real-time analytics, full customization, no-code setup, and seamless integration that works anywhere, anytime!
 
 ### <img src="https://quicksend.soorajrao.in/image/icon.png" width="16px" /> File Sharing Application
 
@@ -20,6 +31,11 @@ Need to share files quickly? Our website makes it fast and simple. Just upload a
 
 [QuickLink](https://quicklink.soorajrao.in/?ref=github) ,
 A URL shortener that efficiently converts long URLs into short ones, offering seamless link generation and redirection to enhance user accessibility and web navigation.
+
+### <img src="https://imgfy.soorajrao.in/favicon.ico" width="16px" /> Imgfy
+
+[Imgfy](https://imgfy.soorajrao.in/?ref=github) ,
+Imgify is an advanced image compression and conversion tool designed to simplify reducing image file sizes without compromising quality
 
 ## 💻 Showcase Projects
 
@@ -92,10 +108,13 @@ This e-commerce platform utilizes the MERN stack and Zustand for state managemen
 ![PostMan](https://img.shields.io/badge/-PostMan-000?style=for-the-badge&logo=PostMan)
 ![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
 
+<!--
 ## Current GitHub Stats 📊
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sooraj-Rao&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 ## GitHub Streaks 🔥
 
-![Streaks](http://github-readme-streak-stats.herokuapp.com/?user=Sooraj-Rao&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![Streaks](http://github-readme-streak-stats.herokuapp.com/?user=Sooraj-Rao&theme=jolly&date_format=j%20M%5B%20Y%5D) -->
+
+Any Queries?  [Message me here](https://contact.soorajrao.in/?mode=contact&app=git&utm_source=git)
